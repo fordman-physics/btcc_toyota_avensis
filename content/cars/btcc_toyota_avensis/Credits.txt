@@ -1,0 +1,31 @@
+- BTCC T7R Mod V1.1 Credits - Triple7Racing
+
+Assetto Corsa 3D Model Improvements & Changes - BBO, Festa_PWR
+Assetto Corsa Car and Engine Physics - Festa_PWR, Fordman
+Assetto Corsa Tyre Phyics - Fordman, Festa_PWR
+Sounds (Honda, Toyota) - Fordman
+Sounds (Ford Focus, BMW) - IMrIMike
+2016 Liveries - Horus
+Testers - VTX, P1lot, D34NO, Three Jump, Ears, WagnumPI, Reference92, Brownninja97
+An RFactor2 Mod was taken as a basis for our Mod (Owner/Group - AndySimmons, SRFL, Bjorn, PetraGTC, WSVR, Senormen)
+
+BTCC MOD V2.0
+As Above
+Physics - Redone by Shaun Clarke
+Sounds - Some Borrowed from Kunos
+Dashboard - Redone by Shaun Clarke
+Lights - Redone by Shaun Clarke
+New previews
+
+BTCC MOD V2.1
+
+Fixed Digital Instruments for Toyota didn't work
+Fixed AI not changing to 6th Gear all cars
+Fixed AI blowing engines all cars
+AI more agressive
+Increased Boost slightly all cars
+Fixed Transparnt sport on Toyota/Honda headlights
+Fixed BMW Auto Shifter (was not present)
+
+
+
